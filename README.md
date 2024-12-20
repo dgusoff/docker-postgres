@@ -10,6 +10,6 @@ Create docker images for PostgreSQL and PGAdmin
 5. add these connection properties:
      * Host: postgres
      * Port: 5432
-     * Username: admin (as set in POSTGRES_USER).
+     * Username: admin@admin.com (as set in POSTGRES_USER).
      * Password: admin (as set in POSTGRES_PASSWORD).
-7. 
+7. credentials are simple because this a for a local dev environment
